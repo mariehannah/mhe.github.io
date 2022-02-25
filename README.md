@@ -16,10 +16,9 @@
 ![alt text](1efa6220bcf7e911cffe1dff06d3ade7.jpg)
 
 
+[Trailer](https://youtu.be/gYp4cKumTwU)
 
-
-[title](<iframe width="560" height="315" src="https://www.youtube.com/embed/gYp4cKumTwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
-[Trailer](https://youtu.be/gYp4cKumTwU) 
+<a href="https://youtu.be/gYp4cKumTwU">link</a>
 
 
 
