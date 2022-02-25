@@ -30,6 +30,12 @@ Every Saturday and Sunday at 9:10pm KST at TvN
 
 New Episodes at Netflix every 10pm PHT 
 
+Starring Nam Joo-hyuk, Kim Tae-ri, WSJN Bona, Choi Hyun-wook, Lee Joo-myung
+
+Synopsis from Swoon 
+With her plans of being a professional fencer foiled by a sudden financial crisis in the 1990s, a passionate young high-schooler wonders if it’s time to give up on her dreams. But the hardworking part-timer at the comic book shop may be the kindred soul she needs to keep her spirits up—especially when they meet again at ages 25 and 21. 
+
+
 | Episode | Release Date |
 | ----------- | ----------- |
 | Episode 1 | 02/12/2022 |
