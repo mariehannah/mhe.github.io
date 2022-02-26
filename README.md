@@ -83,3 +83,32 @@ Total Episodes: 16 (completed)
  
 Starred by Kim Dami, Choi Woosik, Kim Sung-cheol, 
 
+
+
+
+
+
+**All of Us are Dead (2022)** 
+
+
+![alt text](3a9d57fa27e5ebb03602a41d37e114b2.jpg)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lzD2DS1fe6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+                     Completed
+
+Released last January 28, 2022 at Netflix 
+
+Released Date and Time: January 28, 2022 around 5pm KST 
+
+Total Episodes: 12 
+
+Genre: Zombie Apocalypse, Horror Fiction 
+
+Starring Park Solomon, Choi Yihyun, Lee Chan-young Park Jih-oo, Lee Yoo-mi, Yoo In-so, Ha Seung-ri, Lee Eun-saem                  
+                     
+                     
+                     
+                    
