@@ -26,6 +26,9 @@
 <iframe width="560" height="315" src="https://youtu.be/gYp4cKumTwU" title="YouTube video player" frameborder="maxresdefault (1).jpg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[![IMAGE ALT TEXT HERE](maxresdefault (1).jpg)](https://youtu.be/gYp4cKumTwU)
+
+
 Airing Time and Date 
 Every Saturday and Sunday at 9:10pm KST at TvN  
 
