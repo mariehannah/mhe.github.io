@@ -19,7 +19,7 @@
 [Trailer](https://youtu.be/gYp4cKumTwU)
 
 
-<iframe width="560" height="315" src="https://youtu.be/gYp4cKumTwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/gYp4cKumTwU" title="YouTube video player" frameborder="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -27,6 +27,7 @@ Airing Time and Date
 Every Saturday and Sunday at 9:10pm KST at TvN  
 
 New Episodes at Netflix every 10pm PHT 
+
 
 Starring Nam Joo-hyuk, Kim Tae-ri, WSJN Bona, Choi Hyun-wook, Lee Joo-myung
 
@@ -55,3 +56,48 @@ With her plans of being a professional fencer foiled by a sudden financial crisi
 | Episode 16 | 04/03/2022 |
 
 
+# Our Beloved Summer 
+
+
+![alt text](56473bd10966b949e82d21cccc812911.jpg)
+
+Aired at SBS Last December 6, 2021 - January 25, 2022 at 9:00pm KST 
+ 
+Starred by Kim Dami, Choi Woosik, Kim Sung-cheol, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Twenty Five Twenty One 
+
+
+![alt text](1efa6220bcf7e911cffe1dff06d3ade7.jpg)
+ 
+                        On-going Drama 
+ 
+ Started Airing last Febuary 12, 2022
+ Broadcasted in TvN every Saturday and Sunday at 9:10pm KST 
+ New Episodes at 10pm PHT at Netflix 
+ 
+ Starring Nam Joohyuk, Kim Taeri, WSNJ Bona, Choi Hyunwook, Lee Joomyung 
+ 
+ 
+
+
+
+
+
+
+
+
+# Hi Bye, Mama 
