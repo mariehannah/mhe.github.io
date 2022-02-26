@@ -23,7 +23,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jot9Gky4ays" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-                                   On-going drama 
+                      On-going drama 
 
 Airing Time and Date 
 Every Saturday and Sunday at 9:10pm KST at TvN  
@@ -70,7 +70,9 @@ With her plans of being a professional fencer foiled by a sudden financial crisi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p_dDoDQ8u94?start=37" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-                                   Completed 
+                      Completed 
+                                   
+                                   
 Aired at SBS Last December 6, 2021 - January 25, 2022 at 9:00pm KST 
 
 Available at Netflix
