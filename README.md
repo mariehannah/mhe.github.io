@@ -111,4 +111,20 @@ Starring Park Solomon, Choi Yihyun, Lee Chan-young Park Jih-oo, Lee Yoo-mi, Yoo 
                      
                      
                      
-                    
+**Hospital Playlist (2020-2021)** 
+
+
+![alt text](5c1a06ac31d66d89d5a7202910b2dbaa.jpg)
+
+
+                     Completed
+                     
+Season 1 released las March 12-May 28 2020 and Season 2 was realeased last June 17 - September 16, 2021                  
+
+Available in Netflix 
+
+
+Total Episodes: S1 12 + S2 12 
+
+Genre: Romance, Medical drama, Comedy 
+
