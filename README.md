@@ -19,12 +19,6 @@
 [Trailer](https://youtu.be/gYp4cKumTwU)
 
 
-<iframe width="560" height="315" src="https://youtu.be/gYp4cKumTwU" title="YouTube video player" frameborder="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-<iframe width="560" height="315" src="https://youtu.be/gYp4cKumTwU" title="YouTube video player" frameborder="maxresdefault (1).jpg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 [![IMAGE ALT TEXT HERE](maxresdefault (1).jpg)](https://youtu.be/gYp4cKumTwU)
 
@@ -65,7 +59,7 @@ With her plans of being a professional fencer foiled by a sudden financial crisi
 # Our Beloved Summer 
 
 
-![alt text](56473bd10966b949e82d21cccc812911.jpg)
+![alt text]()
 
 Aired at SBS Last December 6, 2021 - January 25, 2022 at 9:00pm KST 
  
