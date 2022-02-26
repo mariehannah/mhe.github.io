@@ -70,6 +70,9 @@ With her plans of being a professional fencer foiled by a sudden financial crisi
 
 ![alt text](05be50182ae4df096db72f78b2c2ed56.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p_dDoDQ8u94?start=37" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Aired at SBS Last December 6, 2021 - January 25, 2022 at 9:00pm KST 
  
 Starred by Kim Dami, Choi Woosik, Kim Sung-cheol, 
