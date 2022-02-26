@@ -10,7 +10,7 @@
 
 
 
-**Twenty Five Twenty One**
+**Twenty Five Twenty One (2022)** 
 
 
 ![alt text](1efa6220bcf7e911cffe1dff06d3ade7.jpg)
@@ -20,23 +20,21 @@
 
 
 
-[![IMAGE ALT TEXT HERE](maxresdefault (1).jpg)](https://youtu.be/gYp4cKumTwU)
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PBCXHOskDQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jot9Gky4ays" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eNANbEMdLZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                   On-going drama 
 
 Airing Time and Date 
 Every Saturday and Sunday at 9:10pm KST at TvN  
 
 New Episodes at Netflix every 10pm PHT 
 
+Genre: Romatic Comedy, Coming of age 
+
+Available Episodes in Netflix (as of today): 4 episodes
+
+Total episodes: 16 
 
 Starring Nam Joo-hyuk, Kim Tae-ri, WSJN Bona, Choi Hyun-wook, Lee Joo-myung
 
@@ -65,15 +63,21 @@ With her plans of being a professional fencer foiled by a sudden financial crisi
 | Episode 16 | 04/03/2022 |
 
 
-# Our Beloved Summer 
+**Our Beloved Summer (2021-2022)** 
 
 
 ![alt text](05be50182ae4df096db72f78b2c2ed56.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p_dDoDQ8u94?start=37" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+                                   Completed 
 Aired at SBS Last December 6, 2021 - January 25, 2022 at 9:00pm KST 
+
+Available at Netflix
+
+Genre: Drama Romantic Comedy 
+
+Total Episodes: 16 (completed) 
  
 Starred by Kim Dami, Choi Woosik, Kim Sung-cheol, 
 
