@@ -24,7 +24,7 @@
 
 
 
-<iframe width="560" height="315" src="https://youtu.be/gYp4cKumTwU" title="YouTube video player" frameborder="2 (2).jpg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://youtu.be/gYp4cKumTwU" frameborder="0" allowfullscreen></iframe>
 
 
 Airing Time and Date 
