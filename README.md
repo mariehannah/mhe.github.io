@@ -123,8 +123,8 @@ Season 1 released las March 12-May 28 2020 and Season 2 was realeased last June 
 
 Available in Netflix 
 
-
-Total Episodes: S1 12 + S2 12 
+Total Episodes: 24 (12 episodes per season) 
 
 Genre: Romance, Medical drama, Comedy 
 
+Cast: Jo Jung-sok, Jeon Mido, Jung Kyung-ho, Yoo Yeon-seok, Kim Dae-myung 
