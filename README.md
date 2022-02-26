@@ -23,6 +23,10 @@
 [![IMAGE ALT TEXT HERE](maxresdefault (1).jpg)](https://youtu.be/gYp4cKumTwU)
 
 
+
+<iframe width="560" height="315" src="https://youtu.be/gYp4cKumTwU" title="YouTube video player" frameborder="2 (2).jpg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Airing Time and Date 
 Every Saturday and Sunday at 9:10pm KST at TvN  
 
@@ -59,7 +63,7 @@ With her plans of being a professional fencer foiled by a sudden financial crisi
 # Our Beloved Summer 
 
 
-![alt text]()
+![alt text](05be50182ae4df096db72f78b2c2ed56.jpg)
 
 Aired at SBS Last December 6, 2021 - January 25, 2022 at 9:00pm KST 
  
