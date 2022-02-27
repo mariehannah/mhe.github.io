@@ -32,7 +32,7 @@ New Episodes at Netflix every 10pm PHT
 
 Genre: Romatic Comedy, Coming of age 
 
-Available Episodes in Netflix (as of today): 4 episodes
+Available Episodes in Netflix (as of today): 6 episodes
 
 Total episodes: 16 
 
