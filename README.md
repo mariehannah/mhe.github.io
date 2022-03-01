@@ -16,8 +16,6 @@
 ![alt text](1efa6220bcf7e911cffe1dff06d3ade7.jpg)
 
 
-[Trailer](https://youtu.be/gYp4cKumTwU)
-
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jot9Gky4ays" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -42,7 +40,7 @@ Synopsis from Swoon
 
 With her plans of being a professional fencer foiled by a sudden financial crisis in the 1990s, a passionate young high-schooler wonders if it’s time to give up on her dreams. But the hardworking part-timer at the comic book shop may be the kindred soul she needs to keep her spirits up—especially when they meet again at ages 25 and 21. 
 
-
+**Episodes Release Dates**
 | Episode | Release Date |
 | ----------- | ----------- |
 | Episode 1 | 02/12/2022 |
