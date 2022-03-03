@@ -58,6 +58,8 @@ With her plans of being a professional fencer foiled by a sudden financial crisi
 | Episode 15 | 04/02/2022 |
 | Episode 16 | 04/03/2022 |
 
+**OST Playlist** 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6eBCn56XBRFeEXbvDSAu5a?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
 **Our Beloved Summer (2021-2022)** 
 
